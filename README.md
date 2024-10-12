@@ -1,3 +1,5 @@
+Задания в GoogleDocs
+
 1. [Задание1(Характеристики_качества)](https://docs.google.com/document/d/1BzqASTW8ubLUad1_HaYlQIl8DFoPZnmWeY7TrcPcNVE/edit?usp=sharing)
 2. [Задание2(Методологии_разработки)](https://docs.google.com/document/d/1mLcq1g1Yd2BexF-2ovGb31xFKp8Jv6uCPrnSMBMZhGE/edit?usp=sharing)
 3. [Задание3(Нефункциональное_тестирование)](https://docs.google.com/document/d/1aeDiJuiJ2B7Sb2usYeibnifuoCj1myWWsD5NMlWeRTc/edit?usp=sharing)
